@@ -1,0 +1,3 @@
+Part A includes collecting CIKs for each of the Mutual Funds, then looking up the links of all the 13F HRs and the Information Tables, and identifying them either text tables or xml tables. Next, for each text link, extracting the name of issuer, CUSIP, and the Quantity of shares. Finally, writing down the lists in the file.
+
+Part B includes writing a program that obtains all the reviews for a specific restaurant from Yelp.com. The input to this program should be the complete URL for the Yelp page of the restaurant you want to obtain reviews for. Make sure that your program obtains all the reviews from all the pages if the reviews paginate to more than one page.
